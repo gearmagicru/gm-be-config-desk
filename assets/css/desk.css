@@ -1,0 +1,26 @@
+/*!
+ * Панель конфигурации (Items).
+ * 
+ * Расширение "Панель конфигурации".
+ * Модуль "Конфигурация"
+ * 
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+/**
+ * Виды элементов панели Конфигурации.
+ */
+.gm-config-desk__thumb_module .g-shortcuts__thumb {
+    background: rgba(234, 214, 183, 0.2);
+}
+.gm-config-desk__thumb_module.g-shortcuts__item_over .g-shortcuts__thumb {
+    background: rgba(234, 214, 183, 1);
+}
+.gm-config-desk__thumb_widget .g-shortcuts__thumb {
+    background: rgba(209, 219, 229, 0.3);
+}
+.gm-config-desk__thumb_widget.g-shortcuts__item_over .g-shortcuts__thumb {
+    background: rgba(209, 219, 229, 1);
+}
