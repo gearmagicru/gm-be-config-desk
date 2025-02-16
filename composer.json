@@ -1,14 +1,7 @@
 {
-    "name": "gearmagicru/gm-be-config-desk/",
+    "name": "gearmagicru/gm-be-config-desk",
     "description": "Control Panel extension (module) \"Configuration Desk\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "extension",
-        "configuration",
-        "desk"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-extension", "extension", "configuration", "desk"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-config-desk/",
     "type": "component",
     "license": "MIT",
